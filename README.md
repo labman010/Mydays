@@ -5,7 +5,7 @@
 功能
 ---
   记录事件标题和详细内容<br>
-  ![](https://github.com/) <br>
+  ![](https://github.com/labman010/Mydays/gitpictures/1.png) <br>
   从相册上传图片作为记录<br>
   <br>
   
