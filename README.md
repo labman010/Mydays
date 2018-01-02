@@ -1,4 +1,5 @@
 # Mydays 生活记录
+### Mydays是一款记事本性质的app。主要用于记录生活中发生的事件和心情，以及对记录进行管理的。
 ## 界面和功能介绍
 ### 主界面
 显示事件列表，每一栏显示缩略图片、标题和详细内容的预览<br>
@@ -19,8 +20,8 @@
 ###  设置界面
 app颜色主题可以选择<br>
 ![](https://github.com/labman010/Mydays/blob/master/gitpictures/8.png) 
-![](https://github.com/labman010/Mydays/blob/master/gitpictures/9.png) 
-![](https://github.com/labman010/Mydays/blob/master/gitpictures/10.png)
+![](https://github.com/labman010/Mydays/blob/master/gitpictures/10.png) 
+![](https://github.com/labman010/Mydays/blob/master/gitpictures/9.png)
 
   
 
