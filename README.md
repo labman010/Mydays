@@ -21,9 +21,11 @@
 app颜色主题可以选择<br>
 ![](https://github.com/labman010/Mydays/blob/master/gitpictures/8.png) 
 ![](https://github.com/labman010/Mydays/blob/master/gitpictures/10.png) 
-![](https://github.com/labman010/Mydays/blob/master/gitpictures/9.png)
+![](https://github.com/labman010/Mydays/blob/master/gitpictures/9.png)<br><br><br>
 
-  
+## 总结
+app设计过程中遇到很多问题没有得到解决，导致走了很多弯路，而一些想要的功能写了一般却没有实现。最后的成果比较简陋，代码量不足，请多多包涵。
+
 
   
   
