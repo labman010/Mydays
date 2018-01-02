@@ -17,7 +17,7 @@
 
 
 ####  设置界面
-app颜色主题可以选择
+app颜色主题可以选择<br>
 ![](https://github.com/labman010/Mydays/blob/master/gitpictures/8.png) <br>
 ![](https://github.com/labman010/Mydays/blob/master/gitpictures/9.png) <br>
 
