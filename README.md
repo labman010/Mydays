@@ -2,24 +2,25 @@
  界面和功能介绍
  -----
 ####  主界面
-     显示<br>
+      显示事件列表，每一栏显示缩略图片、标题和详细内容的预览<br>
   ![](https://github.com/labman010/Mydays/blob/master/gitpictures/3.png) <br>
-     
-  ![](https://github.com/labman010/Mydays/blob/master/gitpictures/3.png) <br>
-  
-  ![](https://github.com/labman010/Mydays/blob/master/gitpictures/2.png) <br>
-
+     可以进行编辑删除和添加操作<br>
+  ![](https://github.com/labman010/Mydays/blob/master/gitpictures/4.png) <br>
+     可通过心情图标记录事件发生时的不同情
   ![](https://github.com/labman010/Mydays/blob/master/gitpictures/5.png) <br>
-  ![](https://github.com/labman010/Mydays/blob/master/gitpictures/6.png) <br>
-  ![](https://github.com/labman010/Mydays/blob/master/gitpictures/7.png) <br>
+  ![](https://github.com/labman010/Mydays/blob/master/gitpictures/6.png) <br>
+	
+####  编辑界面
+      添加文字和图片，图片从系统相册中调用<br>
+  ![](https://github.com/labman010/Mydays/blob/master/gitpictures/7.png) <br>
+
+
+####  设置界面
+	  app颜色主题可以选择
   ![](https://github.com/labman010/Mydays/blob/master/gitpictures/8.png) <br>
   ![](https://github.com/labman010/Mydays/blob/master/gitpictures/9.png) <br>
-  从相册上传图片作为记录<br>
-  <br>
+
   
-  通过心情图标记录事件发生时的不同情绪<br>
- <br>
-  能够编辑所有信息<br>
-  <br>
+
   
   
